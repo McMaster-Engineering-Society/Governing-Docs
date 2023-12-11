@@ -1,0 +1,27 @@
+% !TEX program = xelatex
+
+\documentclass{article}
+\usepackage[letterpaper, portrait, margin=1in]{geometry}
+\usepackage{hyperref}
+\usepackage{alphalph}
+\usepackage{import}
+\usepackage{tabularray}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{color}
+
+\setcounter{secnumdepth}{5}
+\renewcommand{\labelenumi}{\alphalph{\value{enumi}})}
+\renewcommand{\labelenumii}{\alph{enumii}.}
+\renewcommand{\labelenumiii}{\roman{enumiii}.}
+
+\begin{document}
+\tableofcontents
+\import{./}{1.tex}
+\import{./}{2.tex}
+\import{./}{3.tex}
+\import{./}{4.tex}
+\import{./}{5.tex}
+\import{./}{6.tex}
+
+\end{document}
