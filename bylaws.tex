@@ -1,28 +1,72 @@
 % !TEX program = xelatex
 
-\documentclass{article}
+\documentclass[12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+
 \usepackage[letterpaper, portrait, margin=1in]{geometry}
 \usepackage{hyperref}
 \usepackage{alphalph}
 \usepackage{import}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
 \usepackage{tabularray}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{nameref}
 \usepackage{color}
-\usepackage{parskip}
+
+\usepackage{tocloft} % below is for ) after each entry in TOC
+\usepackage{expl3}
+\ExplSyntaxOn
+\makeatletter
+\clist_map_inline:nn {chap,sec,subsec,subsubsec,para,subpara}
+{\cs_set_nopar:cpn {cft #1 aftersnum} ##1 {)}}
+\ExplSyntaxOff
+
+
+\makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
+\makeatother
 
 \setcounter{secnumdepth}{5}
 \renewcommand{\labelenumi}{\alphalph{\value{enumi}})}
-\renewcommand{\labelenumii}{\roman{enumii})}
-\renewcommand{\labelenumiii}{\arabic{enumiii})}
+\renewcommand{\labelenumii}{\alph{enumii}.}
+\renewcommand{\labelenumiii}{\roman{enumiii}.}
+\renewcommand{\thesection}{\Alph{section}}
+
+\newcommand{\smallfont}[1]{{%
+		\fontsize{10pt}{10pt}\normalfont #1%
+}}
+\newcommand{\normfont}[1]{{%
+		\fontsize{12pt}{12pt}\normalfont #1%
+}}
+\newcommand{\bigfont}[1]{{%
+		\fontsize{20pt}{36pt}\normalfont #1%
+}}
+
+%\setlist[enumerate]{label*=\arabic*., topsep=0pt,itemsep=-1ex,partopsep=1ex,parsep=1ex, ref=\arabic*}
 
 \begin{document}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\normfont{McMaster Engineering Society}}
+%\fancyhead[C]{\normfont{Bylaws}}
+\fancyhead[R]{\normfont{\rightmark}}
+\fancyfoot[C]{\normfont{\thepage}}
+
+\input{title_page}
+
+\cftsetindents{subsection}{1.125em}{2.7em}
+\cftsetindents{subsubsection}{2.5em}{3.6em}
 \tableofcontents
-\import{./}{1.tex}
-\import{./}{2.tex}
-\import{./}{3.tex}
-\import{./}{4.tex}
-\import{./}{5.tex}
-\import{./}{6.tex}
+\newpage
+\input{1.tex}
+\input{2.tex} 
+\input{3.tex}
+\input{4.tex}
+\input{5.tex}
+\input{6.tex}
 
 \end{document}
