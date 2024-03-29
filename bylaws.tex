@@ -17,6 +17,8 @@
 \usepackage{nameref}
 \usepackage{color}
 
+\usepackage{enumitem}
+
 \usepackage{tocloft} % below is for ) after each entry in TOC
 \usepackage{expl3}
 \ExplSyntaxOn
@@ -25,48 +27,45 @@
 {\cs_set_nopar:cpn {cft #1 aftersnum} ##1 {)}}
 \ExplSyntaxOff
 
-
 \makeatletter
 \newcommand*{\currentname}{\@currentlabelname}
 \makeatother
 
 \setcounter{secnumdepth}{5}
-\renewcommand{\labelenumi}{\alphalph{\value{enumi}})}
-\renewcommand{\labelenumii}{\alph{enumii}.}
-\renewcommand{\labelenumiii}{\roman{enumiii}.}
-\renewcommand{\thesection}{\Alph{section}}
 
-\newcommand{\smallfont}[1]{{%
-		\fontsize{10pt}{10pt}\normalfont #1%
-}}
-\newcommand{\normfont}[1]{{%
-		\fontsize{12pt}{12pt}\normalfont #1%
-}}
-\newcommand{\bigfont}[1]{{%
-		\fontsize{20pt}{36pt}\normalfont #1%
-}}
+\newcommand{\smallfont}[1]{\fontsize{10pt}{10pt}\normalfont #1}
+\newcommand{\normfont}[1]{\fontsize{12pt}{12pt}\normalfont #1}
+\newcommand{\bigfont}[1]{\fontsize{20pt}{36pt}\normalfont #1}
 
-%\setlist[enumerate]{label*=\arabic*., topsep=0pt,itemsep=-1ex,partopsep=1ex,parsep=1ex, ref=\arabic*}
+\setlist[enumerate,1]{itemsep=0.2em,topsep=0em}
+\setlist[enumerate,2]{itemsep=0.1em,topsep=0em,partopsep=0em}
+\setlist[enumerate,3]{nosep}
 
 \begin{document}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\normfont{McMaster Engineering Society}}
-%\fancyhead[C]{\normfont{Bylaws}}
 \fancyhead[R]{\normfont{\rightmark}}
 \fancyfoot[C]{\normfont{\thepage}}
 
 \input{title_page}
 
-\cftsetindents{subsection}{1.125em}{2.7em}
-\cftsetindents{subsubsection}{2.5em}{3.6em}
+\cftsetindents{subsection}{1.125em}{2.8em}
+\cftsetindents{subsubsection}{2.5em}{3.75em}
 \tableofcontents
 \newpage
-\input{1.tex}
-\input{2.tex} 
-\input{3.tex}
-\input{4.tex}
-\input{5.tex}
-\input{6.tex}
+\input{Sections/1 - Structure and Organization.tex}
+\input{Sections/2 - Elections and Selections.tex}
+\input{Sections/3 - Appointed Positions.tex} 
+\input{Sections/4 - Committees.tex}
+\input{Sections/5 - Meetings.tex}
+\input{Sections/6 - MES Roberts Rules of Order.tex}
+\input{Sections/7 - Board of Advisors Terms of Reference.tex}
+\input{Sections/8 - Clubs, Groups, Teams and Affiliates.tex}
+\input{Sections/9 - Financial Policies.tex}
+\input{Sections/10 - Inter-Intra University Liaison.tex}
+\input{Sections/11 - Services.tex}
+\input{Sections/12 - Awards.tex}
+\input{Sections/13 - Special Events.tex}
 
 \end{document}
