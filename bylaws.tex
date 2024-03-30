@@ -6,6 +6,7 @@
 %\usepackage{import}
 \usepackage{fancyhdr}
 \usepackage{graphicx}
+\usepackage{tikz}
 \usepackage{tabularray}
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -36,16 +37,22 @@
 \setlist[enumerate,3]{nosep}
 
 \begin{document}
+\input{title_page}
+\input{preamble}
+\newpage
+
+% these are here so there's no header in the preamble
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[L]{\normfont{McMaster Engineering Society}}
 \fancyhead[R]{\normfont{\rightmark}}
 \fancyfoot[C]{\normfont{\thepage}}
 
-\input{title_page}
-
+% these commands define the indentation in the table of contents
 \cftsetindents{subsection}{1.125em}{2.8em}
 \cftsetindents{subsubsection}{2.5em}{3.75em}
+
+% contents below
 \tableofcontents
 \newpage
 \input{1.tex}
