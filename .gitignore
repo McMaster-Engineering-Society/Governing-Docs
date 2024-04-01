@@ -1,2 +1,6 @@
 *.bak*
 *.log
+*.aux
+*.out
+*.gz
+*.toc
