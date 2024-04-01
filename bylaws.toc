@@ -1,0 +1,235 @@
+\contentsline {section}{\numberline {1}STRUCTURE \& ORGANIZATION}{8}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The Executive}{8}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}President}{8}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Vice President, Student Life}{9}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Vice President, External Relations}{10}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Vice President, Academic}{11}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}Vice President, Finance}{12}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}Vice President, Internal}{13}{subsubsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}Vice President, Communications}{14}{subsubsection.1.1.7}%
+\contentsline {subsection}{\numberline {1.2}Authority and Responsibility of the Executive}{16}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Executive Authority}{16}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}Executive Responsibility}{16}{subsubsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.3}Associate Vice-Presidents}{17}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Associate Vice President, Events}{17}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Associate Vice President, Clubs}{17}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Associate Vice President, Academic Resources}{18}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Representatives}{18}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Program Representatives}{18}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}First Year Representatives}{19}{subsubsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.5}Executive Transition Process}{20}{subsection.1.5}%
+\contentsline {section}{\numberline {2}\emph {ELECTIONS \& SELECTIONS}}{20}{section.2}%
+\contentsline {subsection}{\numberline {2.1}General}{20}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Regular Elections}{20}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Presidential Elections}{21}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Bachelor of Technology Election}{21}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}General Elections}{21}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}First Year Representative Elections}{22}{subsubsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.3}By-Elections}{22}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Eligibility for Elected Positions}{23}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Eligibility for Appointed Positions}{23}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Election Dates}{23}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Election Dates}{23}{subsubsection.2.6.1}%
+\contentsline {subsection}{\numberline {2.7}Term of Office}{24}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}Nominations}{25}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}Campaign}{25}{subsection.2.9}%
+\contentsline {subsubsection}{\numberline {2.9.1}Campaign Conduct}{25}{subsubsection.2.9.1}%
+\contentsline {subsubsection}{\numberline {2.9.2}Closure of Campaign Period}{26}{subsubsection.2.9.2}%
+\contentsline {subsubsection}{\numberline {2.9.3}Campaign Team}{26}{subsubsection.2.9.3}%
+\contentsline {subsubsection}{\numberline {2.9.4}Campaign Posters}{26}{subsubsection.2.9.4}%
+\contentsline {subsubsection}{\numberline {2.9.5}Online and Social Media Campaigning}{27}{subsubsection.2.9.5}%
+\contentsline {subsubsection}{\numberline {2.9.6}Other Campaign Procedures}{28}{subsubsection.2.9.6}%
+\contentsline {subsection}{\numberline {2.10}Elections Committee}{28}{subsection.2.10}%
+\contentsline {subsection}{\numberline {2.11}Election Procedures}{29}{subsection.2.11}%
+\contentsline {section}{\numberline {3}Appointed Positions}{30}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Appointed Positions}{30}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}DW Lounge Coordinator(s)}{30}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Chief Returning Officer}{30}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Co-Orientation Coordinators}{31}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Culture Coordinator(s)}{31}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Drain Coordinator(s)}{32}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Equity, Diversity and Inclusion Officer(s)}{33}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}Fireball Coordinator(s)}{34}{subsubsection.3.1.7}%
+\contentsline {subsubsection}{\numberline {3.1.8}Information Technology Coordinator(s)}{34}{subsubsection.3.1.8}%
+\contentsline {subsubsection}{\numberline {3.1.9}Wellness Coordinator(s) }{35}{subsubsection.3.1.9}%
+\contentsline {subsubsection}{\numberline {3.1.10}Kipling Coordinator(s)}{35}{subsubsection.3.1.10}%
+\contentsline {subsubsection}{\numberline {3.1.11}macLAB Chair}{36}{subsubsection.3.1.11}%
+\contentsline {subsubsection}{\numberline {3.1.12}McMaster Engineering Competition Chair(s)}{36}{subsubsection.3.1.12}%
+\contentsline {subsubsection}{\numberline {3.1.13}Trailer Coordinator(s)}{37}{subsubsection.3.1.13}%
+\contentsline {subsubsection}{\numberline {3.1.14}Plumbline Editor(s)}{38}{subsubsection.3.1.14}%
+\contentsline {subsubsection}{\numberline {3.1.15}Frequency Editor(s)}{38}{subsubsection.3.1.15}%
+\contentsline {subsubsection}{\numberline {3.1.16}Handbook Editor(s)}{38}{subsubsection.3.1.16}%
+\contentsline {subsubsection}{\numberline {3.1.17}Publications Editor}{39}{subsubsection.3.1.17}%
+\contentsline {subsubsection}{\numberline {3.1.18}Professional Development Coordinator(s)}{39}{subsubsection.3.1.18}%
+\contentsline {subsubsection}{\numberline {3.1.19}Leadership Development Conference Coordinator(s)}{40}{subsubsection.3.1.19}%
+\contentsline {subsubsection}{\numberline {3.1.20}Administrator}{40}{subsubsection.3.1.20}%
+\contentsline {subsubsection}{\numberline {3.1.21}Graphic Designer(s)}{41}{subsubsection.3.1.21}%
+\contentsline {subsubsection}{\numberline {3.1.22}External Conference or Competition Chair(s) }{41}{subsubsection.3.1.22}%
+\contentsline {subsubsection}{\numberline {3.1.23}Sports Coordinator(s) }{42}{subsubsection.3.1.23}%
+\contentsline {subsubsection}{\numberline {3.1.24}Gerald Hatch Centre Student Coordinator(s)}{42}{subsubsection.3.1.24}%
+\contentsline {subsubsection}{\numberline {3.1.25}Data Coordinator(s)}{43}{subsubsection.3.1.25}%
+\contentsline {subsubsection}{\numberline {3.1.26}Mentorship Coordinator(s)}{43}{subsubsection.3.1.26}%
+\contentsline {subsubsection}{\numberline {3.1.27}Sustainability Coordinator(s)}{44}{subsubsection.3.1.27}%
+\contentsline {subsubsection}{\numberline {3.1.28}First Year Experiential Conference Chair(s)}{45}{subsubsection.3.1.28}%
+\contentsline {subsubsection}{\numberline {3.1.29}Social Media Coordinator(s)}{45}{subsubsection.3.1.29}%
+\contentsline {subsubsection}{\numberline {3.1.30}Special Projects Coordinator(s)}{45}{subsubsection.3.1.30}%
+\contentsline {subsubsection}{\numberline {3.1.31}Sponsorship Coordinator(s)}{46}{subsubsection.3.1.31}%
+\contentsline {subsection}{\numberline {3.2}Transition}{46}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Objectives}{46}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Transition Reports}{47}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Council Transition Process}{47}{subsubsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.3}Appointed Positions}{48}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Appointment Procedure}{48}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Regular Appointed Positions}{48}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Co-Orientation Coordinators}{49}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Chief Returning Officer}{50}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Other Appointed Positions}{51}{subsubsection.3.3.5}%
+\contentsline {section}{\numberline {4}\emph {COMMITTEES}}{51}{section.4}%
+\contentsline {subsection}{\numberline {4.1}General}{51}{subsection.4.1}%
+\contentsline {subsubsection}{\numberline {4.1.1}Responsibilities of the Chair}{51}{subsubsection.4.1.1}%
+\contentsline {subsubsection}{\numberline {4.1.2}Membership}{51}{subsubsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.2}Welcome Week Orientation Planning Committee }{52}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Ad Hoc Committees }{52}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Standing Committees}{53}{subsection.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.1}Advertising Committee}{53}{subsubsection.4.4.1}%
+\contentsline {subsubsection}{\numberline {4.4.2}Awards Selection Committee}{53}{subsubsection.4.4.2}%
+\contentsline {subsubsection}{\numberline {4.4.3}Club Leaders Committee}{54}{subsubsection.4.4.3}%
+\contentsline {subsubsection}{\numberline {4.4.4}Delegate Selection Committee}{54}{subsubsection.4.4.4}%
+\contentsline {subsubsection}{\numberline {4.4.5}Editorial Review Committee}{54}{subsubsection.4.4.5}%
+\contentsline {subsubsection}{\numberline {4.4.6}Elections Committee}{55}{subsubsection.4.4.6}%
+\contentsline {subsubsection}{\numberline {4.4.7}macLAB Board of Directors}{55}{subsubsection.4.4.7}%
+\contentsline {subsubsection}{\numberline {4.4.8}First Year Committee}{55}{subsubsection.4.4.8}%
+\contentsline {subsubsection}{\numberline {4.4.9}Kipling Committee}{56}{subsubsection.4.4.9}%
+\contentsline {subsubsection}{\numberline {4.4.10}Newsletter Committee}{56}{subsubsection.4.4.10}%
+\contentsline {subsubsection}{\numberline {4.4.11}Social Committee}{56}{subsubsection.4.4.11}%
+\contentsline {subsubsection}{\numberline {4.4.12}Sports Committee}{57}{subsubsection.4.4.12}%
+\contentsline {subsubsection}{\numberline {4.4.13}McMaster Engineering Competition Committee}{57}{subsubsection.4.4.13}%
+\contentsline {subsubsection}{\numberline {4.4.14}Culture Committee}{58}{subsubsection.4.4.14}%
+\contentsline {subsubsection}{\numberline {4.4.15}Professional Development Committee}{58}{subsubsection.4.4.15}%
+\contentsline {subsubsection}{\numberline {4.4.16}Leadership Development Conference Committee}{58}{subsubsection.4.4.16}%
+\contentsline {subsubsection}{\numberline {4.4.17}Wellness Committee}{59}{subsubsection.4.4.17}%
+\contentsline {subsubsection}{\numberline {4.4.18}Sustainability Committee}{59}{subsubsection.4.4.18}%
+\contentsline {subsubsection}{\numberline {4.4.19}Academic Services Committee}{59}{subsubsection.4.4.19}%
+\contentsline {subsubsection}{\numberline {4.4.20}Equity Committee}{59}{subsubsection.4.4.20}%
+\contentsline {subsubsection}{\numberline {4.4.21}First Year Experiential Conference (FYEC) Committee}{60}{subsubsection.4.4.21}%
+\contentsline {subsubsection}{\numberline {4.4.22}Bus Monitor Committee}{60}{subsubsection.4.4.22}%
+\contentsline {subsubsection}{\numberline {4.4.23}I.D.E.A. Committee (Inclusivity and Diversity in Engineering Alliance)}{61}{subsubsection.4.4.23}%
+\contentsline {section}{\numberline {5}\emph {MEETINGS}}{61}{section.5}%
+\contentsline {subsection}{\numberline {5.1}General Meetings (SAGM)}{61}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}MES Council Meetings}{61}{subsection.5.2}%
+\contentsline {subsubsection}{\numberline {5.2.1}General}{61}{subsubsection.5.2.1}%
+\contentsline {subsubsection}{\numberline {5.2.2}Attendance}{63}{subsubsection.5.2.2}%
+\contentsline {subsubsection}{\numberline {5.2.3}Proxy Voting}{63}{subsubsection.5.2.3}%
+\contentsline {subsubsection}{\numberline {5.2.4}Quorum}{63}{subsubsection.5.2.4}%
+\contentsline {subsection}{\numberline {5.3}Committee Meetings}{64}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Supervisory Meetings}{64}{subsection.5.4}%
+\contentsline {section}{\numberline {6}\emph {MES ROBERT'S RULES OF ORDER}}{65}{section.6}%
+\contentsline {subsection}{\numberline {6.1}ELEVEN FUNDAMENTAL RULES OF PROCEDURE}{65}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}MOTIONS}{66}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Main Motions}{66}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Secondary Motions}{67}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}THE RANKS OF SECONDARY MOTIONS}{67}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}WHAT DO I SAY?}{68}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}TALKING SYSTEM}{69}{subsection.6.3}%
+\contentsline {section}{\numberline {7}\emph {BOARD OF ADVISORS TERMS OF REFERENCE}}{69}{section.7}%
+\contentsline {section}{\numberline {8}CLUBS: GROUPS, TEAMS, AND AFFILIATES}{71}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Program Societies}{71}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Groups}{72}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Teams}{72}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}Affiliates}{73}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}Recognized Clubs}{74}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}Ratification Process}{74}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}De-Ratification Process}{75}{subsection.8.7}%
+\contentsline {section}{\numberline {9}\emph {FINANCIAL POLICIES}}{75}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Budget}{75}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Payment Policies}{76}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}Funding Policies}{77}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}Other Funding Requests}{77}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}Societies Funding Policy}{77}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}Clubs and Teams Funding Policy}{79}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}Conference / Competition Funding Policy}{80}{subsubsection.9.3.4}%
+\contentsline {subsubsection}{\numberline {9.3.5}Intramural Funding Policy}{82}{subsubsection.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.3.6}Special Projects Funding Policy}{83}{subsubsection.9.3.6}%
+\contentsline {subsection}{\numberline {9.4}Accounts and Cash}{84}{subsection.9.4}%
+\contentsline {subsubsection}{\numberline {9.4.1}Accounts}{84}{subsubsection.9.4.1}%
+\contentsline {subsubsection}{\numberline {9.4.2}Investments}{84}{subsubsection.9.4.2}%
+\contentsline {subsubsection}{\numberline {9.4.3}Reserve Funds}{84}{subsubsection.9.4.3}%
+\contentsline {subsubsection}{\numberline {9.4.4}Contingency}{85}{subsubsection.9.4.4}%
+\contentsline {subsubsection}{\numberline {9.4.5}Petty Cash}{85}{subsubsection.9.4.5}%
+\contentsline {subsection}{\numberline {9.5}Student Fees}{86}{subsection.9.5}%
+\contentsline {subsection}{\numberline {9.6}Accounting}{86}{subsection.9.6}%
+\contentsline {subsection}{\numberline {9.7}Endowment Funds}{86}{subsection.9.7}%
+\contentsline {subsubsection}{\numberline {9.7.1}The McMaster Laboratory Advancement Benefaction Endowment Fund (i.e. macLAB)}{86}{subsubsection.9.7.1}%
+\contentsline {subsection}{\numberline {9.8}Honoraria \& Awards}{87}{subsection.9.8}%
+\contentsline {subsection}{\numberline {9.9}Cash Advance}{87}{subsection.9.9}%
+\contentsline {subsection}{\numberline {9.10}Donations}{87}{subsection.9.10}%
+\contentsline {section}{\numberline {10}INTER/INTRA UNIVERSITY LIAISON}{87}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Hosted Conferences and Competitions}{87}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}General}{87}{subsubsection.10.1.1}%
+\contentsline {subsection}{\numberline {10.2}External Conference and Competitions}{88}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}Open Conferences and Competitions}{88}{subsubsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.2}Delegation Selection for Open Conferences and Competitions}{88}{subsubsection.10.2.2}%
+\contentsline {subsubsection}{\numberline {10.2.3}Delegate Responsibilities}{88}{subsubsection.10.2.3}%
+\contentsline {subsubsection}{\numberline {10.2.4}Affiliate Conferences}{89}{subsubsection.10.2.4}%
+\contentsline {subsubsection}{\numberline {10.2.5}Delegate Selection for Affiliate Conferences}{89}{subsubsection.10.2.5}%
+\contentsline {subsubsection}{\numberline {10.2.6}Delegate Responsibilities}{90}{subsubsection.10.2.6}%
+\contentsline {subsubsection}{\numberline {10.2.7}Closed Competitions}{90}{subsubsection.10.2.7}%
+\contentsline {section}{\numberline {11}SERVICES}{91}{section.11}%
+\contentsline {subsection}{\numberline {11.1}Publications}{91}{subsection.11.1}%
+\contentsline {subsubsection}{\numberline {11.1.1}Approval}{91}{subsubsection.11.1.1}%
+\contentsline {subsubsection}{\numberline {11.1.2}Purpose}{91}{subsubsection.11.1.2}%
+\contentsline {subsubsection}{\numberline {11.1.3}Editorial Policy}{91}{subsubsection.11.1.3}%
+\contentsline {subsubsection}{\numberline {11.1.4}Plumbline}{92}{subsubsection.11.1.4}%
+\contentsline {subsubsection}{\numberline {11.1.5}Frequency }{93}{subsubsection.11.1.5}%
+\contentsline {subsubsection}{\numberline {11.1.6}Engineering Handbook}{93}{subsubsection.11.1.6}%
+\contentsline {subsection}{\numberline {11.2}Website}{94}{subsection.11.2}%
+\contentsline {subsection}{\numberline {11.3}MESsenger}{95}{subsection.11.3}%
+\contentsline {subsection}{\numberline {11.4}DW Lounge}{95}{subsection.11.4}%
+\contentsline {subsubsection}{\numberline {11.4.1}Facilities and Services}{95}{subsubsection.11.4.1}%
+\contentsline {subsection}{\numberline {11.5}Drain}{96}{subsection.11.5}%
+\contentsline {subsubsection}{\numberline {11.5.1}Staffing Policies}{96}{subsubsection.11.5.1}%
+\contentsline {subsubsection}{\numberline {11.5.2}Theft Policy}{96}{subsubsection.11.5.2}%
+\contentsline {subsubsection}{\numberline {11.5.3}Pricing}{97}{subsubsection.11.5.3}%
+\contentsline {subsubsection}{\numberline {11.5.4}Donations}{97}{subsubsection.11.5.4}%
+\contentsline {subsubsection}{\numberline {11.5.5}Advertising Policy}{97}{subsubsection.11.5.5}%
+\contentsline {subsubsection}{\numberline {11.5.6}Access Cards}{97}{subsubsection.11.5.6}%
+\contentsline {subsubsection}{\numberline {11.5.7}Student Organizations Merchandise}{98}{subsubsection.11.5.7}%
+\contentsline {subsection}{\numberline {11.6}MES Office}{99}{subsection.11.6}%
+\contentsline {subsubsection}{\numberline {11.6.1}Office Use}{99}{subsubsection.11.6.1}%
+\contentsline {subsubsection}{\numberline {11.6.2}Keys, Security and Auxiliary Access}{99}{subsubsection.11.6.2}%
+\contentsline {subsubsection}{\numberline {11.6.3}Etiquette and Housekeeping}{100}{subsubsection.11.6.3}%
+\contentsline {subsubsection}{\numberline {11.6.4}Office Equipment}{100}{subsubsection.11.6.4}%
+\contentsline {subsection}{\numberline {11.7}MES Trailer}{100}{subsection.11.7}%
+\contentsline {subsubsection}{\numberline {11.7.1}Bookings}{101}{subsubsection.11.7.1}%
+\contentsline {subsubsection}{\numberline {11.7.2}Keys}{101}{subsubsection.11.7.2}%
+\contentsline {subsubsection}{\numberline {11.7.3}Use of Trailer}{101}{subsubsection.11.7.3}%
+\contentsline {subsubsection}{\numberline {11.7.4}Damage}{101}{subsubsection.11.7.4}%
+\contentsline {subsection}{\numberline {11.8}MES Equipment Rental}{102}{subsection.11.8}%
+\contentsline {subsection}{\numberline {11.9}Storage Room}{102}{subsection.11.9}%
+\contentsline {subsection}{\numberline {11.10}McMaster Peer Tutoring Program}{102}{subsection.11.10}%
+\contentsline {subsubsection}{\numberline {11.10.1}MES Tutoring Network}{102}{subsubsection.11.10.1}%
+\contentsline {subsection}{\numberline {11.11}MES Textbook Library}{103}{subsection.11.11}%
+\contentsline {subsubsection}{\numberline {11.11.1}Operation}{103}{subsubsection.11.11.1}%
+\contentsline {subsection}{\numberline {11.12}MES Academic Workshops}{104}{subsection.11.12}%
+\contentsline {subsubsection}{\numberline {11.12.1}MES-Organized Workshops}{104}{subsubsection.11.12.1}%
+\contentsline {subsubsection}{\numberline {11.12.2}Department/Program-Society-Organized Academic Workshops}{104}{subsubsection.11.12.2}%
+\contentsline {subsection}{\numberline {11.13}Coveralls}{104}{subsection.11.13}%
+\contentsline {subsubsection}{\numberline {11.13.1}Coverall Oversight Committee}{104}{subsubsection.11.13.1}%
+\contentsline {subsubsection}{\numberline {11.13.2}Responsibilities}{105}{subsubsection.11.13.2}%
+\contentsline {subsubsection}{\numberline {11.13.3}Coverall Sponsors}{106}{subsubsection.11.13.3}%
+\contentsline {subsubsection}{\numberline {11.13.4}Coverall Events}{106}{subsubsection.11.13.4}%
+\contentsline {subsubsection}{\numberline {11.13.5}Coverall Applications}{107}{subsubsection.11.13.5}%
+\contentsline {section}{\numberline {12}AWARDS}{108}{section.12}%
+\contentsline {subsection}{\numberline {12.1}General Policies}{108}{subsection.12.1}%
+\contentsline {subsection}{\numberline {12.2}MES Awards}{109}{subsection.12.2}%
+\contentsline {section}{\numberline {13}SPECIAL EVENTS}{110}{section.13}%
+\contentsline {subsection}{\numberline {13.1}Welcome Week}{110}{subsection.13.1}%
+\contentsline {subsubsection}{\numberline {13.1.1}Purpose}{110}{subsubsection.13.1.1}%
+\contentsline {subsubsection}{\numberline {13.1.2}Welcome Week Rules}{110}{subsubsection.13.1.2}%
+\contentsline {subsubsection}{\numberline {13.1.3}Organization}{111}{subsubsection.13.1.3}%
+\contentsline {subsubsection}{\numberline {13.1.4}Events}{111}{subsubsection.13.1.4}%
+\contentsline {subsection}{\numberline {13.2}Fireball}{112}{subsection.13.2}%
+\contentsline {subsection}{\numberline {13.3}Back2School Week}{112}{subsection.13.3}%
+\contentsline {subsection}{\numberline {13.4}First Year Experiential Conference (FYEC)}{112}{subsection.13.4}%
+\contentsline {subsection}{\numberline {13.5}Other Events}{113}{subsection.13.5}%
+\contentsline {subsubsection}{\numberline {13.5.1}Eng Pub Nights}{113}{subsubsection.13.5.1}%
