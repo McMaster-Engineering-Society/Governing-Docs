@@ -1,28 +1,70 @@
 % !TEX program = xelatex
 
-\documentclass{article}
+\documentclass[12pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{Arial}
+
 \usepackage[letterpaper, portrait, margin=1in]{geometry}
 \usepackage{hyperref}
-\usepackage{alphalph}
-\usepackage{import}
+%\usepackage{import}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{tikz}
 \usepackage{tabularray}
 \usepackage{longtable}
 \usepackage{booktabs}
+\usepackage{nameref}
 \usepackage{color}
-\usepackage{parskip}
+
+\usepackage{enumitem}
+
+\usepackage{tocloft} % below is for ) after each entry in TOC
+\usepackage{expl3}
+\ExplSyntaxOn
+\makeatletter
+\clist_map_inline:nn {chap,sec,subsec,subsubsec,para,subpara}
+{\cs_set_nopar:cpn {cft #1 aftersnum} ##1 {)}}
+\ExplSyntaxOff
+
+\makeatletter
+\newcommand*{\currentname}{\@currentlabelname}
+\makeatother
 
 \setcounter{secnumdepth}{5}
-\renewcommand{\labelenumi}{\alphalph{\value{enumi}})}
-\renewcommand{\labelenumii}{\roman{enumii})}
-\renewcommand{\labelenumiii}{\arabic{enumiii})}
+
+\newcommand{\smallfont}[1]{\fontsize{10pt}{10pt}\normalfont #1}
+\newcommand{\normfont}[1]{\fontsize{12pt}{12pt}\normalfont #1}
+\newcommand{\bigfont}[1]{\fontsize{20pt}{36pt}\normalfont #1}
+
+\setlist[enumerate,1]{itemsep=0.2em,topsep=0em,leftmargin=1.8em,align=left,labelwidth=15pt}
+\setlist[enumerate,2]{itemsep=0.1em,topsep=0em,partopsep=0em}
+\setlist[enumerate,3]{nosep}
 
 \begin{document}
+\input{title_page}
+\input{preamble}
+\newpage
+
+% these are here so there's no header in the preamble
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\normfont{McMaster Engineering Society}}
+\fancyhead[R]{\normfont{\rightmark}}
+\fancyfoot[C]{\normfont{\thepage}}
+
+% these commands define the indentation in the table of contents
+\cftsetindents{subsection}{1.125em}{2.8em}
+\cftsetindents{subsubsection}{2.5em}{3.75em}
+
+% contents below
 \tableofcontents
-\import{./}{1.tex}
-\import{./}{2.tex}
-\import{./}{3.tex}
-\import{./}{4.tex}
-\import{./}{5.tex}
-\import{./}{6.tex}
+\newpage
+\input{1.tex}
+\input{2.tex} 
+\input{3.tex}
+\input{4.tex}
+\input{5.tex}
+\input{6.tex}
 
 \end{document}
