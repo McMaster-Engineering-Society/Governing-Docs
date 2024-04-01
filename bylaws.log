@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.5.22)  31 MAR 2024 21:52
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.5.22)  31 MAR 2024 22:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2204,7 +2204,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [10]
-Overfull \hbox (4.0833pt too wide) in paragraph at lines 39--43
+Overfull \hbox (4.0833pt too wide) in paragraph at lines 38--42
 []\TU/Arial(0)/m/n/12 Provide the Administrator and Handbook Editor(s) with a c
 alendar of all external events,
  []
@@ -2264,7 +2264,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [16]
-Overfull \hbox (0.75774pt too wide) in paragraph at lines 163--166
+Overfull \hbox (0.75774pt too wide) in paragraph at lines 155--158
 []\TU/Arial(0)/m/n/12 Promote MES flagship by encouraging the use of MES brandi
 ng amongst MES groups. 
  []
@@ -2296,7 +2296,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [19]) (Sections/2 - Elections and Selections.tex
-Overfull \hbox (6.4113pt too wide) in paragraph at lines 11--14
+Overfull \hbox (6.4113pt too wide) in paragraph at lines 9--12
 []\TU/Arial(0)/m/n/12 There shall be two classes of internal MES elections: reg
 ular elections and by-elections. 
  []
@@ -2427,7 +2427,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [33]
-Overfull \hbox (4.77278pt too wide) in paragraph at lines 365--369
+Overfull \hbox (4.77278pt too wide) in paragraph at lines 355--359
 \TU/Arial(0)/m/n/12 MES electronic communication platforms. Including MES Micro
 soft Teams, and Google
  []
@@ -2504,7 +2504,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [41]
-Overfull \hbox (2.7708pt too wide) in paragraph at lines 912--915
+Overfull \hbox (2.7708pt too wide) in paragraph at lines 887--890
 []\TU/Arial(0)/m/n/12 Organize the annual Ratboy Memorial Soccer Tournament and
  initiate/coordinate other
  []
@@ -2545,7 +2545,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [45]
-Overfull \hbox (18.9915pt too wide) in paragraph at lines 1182--1185
+Overfull \hbox (18.9915pt too wide) in paragraph at lines 1149--1152
 []\TU/Arial(0)/m/n/12 Reach out to grassroots businesses regarding sponsorship 
 opportunities for the MEScard. 
  []
@@ -2640,7 +2640,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [55]
-Overfull \hbox (0.34697pt too wide) in paragraph at lines 384--388
+Overfull \hbox (0.34697pt too wide) in paragraph at lines 368--372
 \TU/Arial(0)/m/n/12 showing good faith to the University by helping to clean up
  unapproved Kipling “pranks”
  []
@@ -2770,58 +2770,58 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 > Step: execute table commands.
 > Step: calculate cell and line sizes.
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/b/n/12 Votes Re-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 236--236
+Underfull \hbox (badness 4967) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Change Word-
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 236--236
+Underfull \hbox (badness 4899) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 “I move to amend the mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Postpone Mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Limit Debate
  []
 
 > Step: build the whole table.
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/b/n/12 Votes Re-
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 236--236
+Underfull \hbox (badness 4967) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Change Word-
  []
 
 
-Underfull \hbox (badness 4899) in paragraph at lines 236--236
+Underfull \hbox (badness 4899) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 “I move to amend the mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Postpone Mo-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 236--236
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
 []\TU/Arial(0)/m/n/12 Limit Debate
  []
 
 
-Overfull \hbox (17.99998pt too wide) in paragraph at lines 236--237
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 229--230
 [][] 
  []
 
@@ -2861,7 +2861,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [71]
-Overfull \hbox (2.65671pt too wide) in paragraph at lines 92--95
+Overfull \hbox (2.65671pt too wide) in paragraph at lines 89--92
 []\TU/Arial(0)/m/n/12 Institute of Electrical and Electronics Engineers, McMast
 er Student Branch (IEEE) 
  []
@@ -3064,7 +3064,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [93]
-Overfull \hbox (1.47029pt too wide) in paragraph at lines 298--302
+Overfull \hbox (1.47029pt too wide) in paragraph at lines 289--293
 \TU/Arial(0)/m/n/12 dinator(s), and Information Technology Coordinator(s). Furt
 her access may be granted
  []
@@ -3105,7 +3105,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [97]
-Overfull \hbox (4.31377pt too wide) in paragraph at lines 573--576
+Overfull \hbox (4.31377pt too wide) in paragraph at lines 553--556
 []\TU/Arial(0)/m/n/12 Large merchandise is characterized by requiring a signifi
 cant amount of storage/display
  []
@@ -3236,7 +3236,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
 
 [111]
-Overfull \hbox (8.51894pt too wide) in paragraph at lines 180--184
+Overfull \hbox (8.51894pt too wide) in paragraph at lines 173--177
 []\TU/Arial(0)/m/n/12 MES Council Appreciation Awards, “Image of an Engineer” A
 wards, President’s Awards,
  []
