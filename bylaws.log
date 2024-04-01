@@ -1,0 +1,3274 @@
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 23.1) (preloaded format=xelatex 2023.5.22)  31 MAR 2024 22:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./bylaws.tex
+(bylaws.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.sty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse
+.sty (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xete
+x.def
+File: l3backend-xetex.def 2023-01-16 L3 backend support: XeTeX
+\g__graphics_track_int=\count189
+\l__pdf_internal_box=\box51
+\g__pdf_backend_object_int=\count190
+\g__pdf_backend_annotation_int=\count191
+\g__pdf_backend_link_int=\count192
+))
+Package: xparse 2023-01-16 L3 Experimental document command parser
+)
+Package: fontspec 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTeX
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec-xetex.
+sty
+Package: fontspec-xetex 2022/01/15 v2.8a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count193
+\l__fontspec_language_int=\count194
+\l__fontspec_strnum_int=\count195
+\l__fontspec_tmp_int=\count196
+\l__fontspec_tmpa_int=\count197
+\l__fontspec_tmpb_int=\count198
+\l__fontspec_tmpc_int=\count199
+\l__fontspec_em_int=\count266
+\l__fontspec_emdef_int=\count267
+\l__fontspec_strong_int=\count268
+\l__fontspec_strongdef_int=\count269
+\l__fontspec_tmpa_dim=\dimen141
+\l__fontspec_tmpb_dim=\dimen142
+\l__fontspec_tmpc_dim=\dimen143
+ (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/fontspec\fontspec.cfg)))
+
+Package fontspec Info: Font family 'Arial(0)' created for font 'Arial' with
+(fontspec)             options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;mapping=tex-text;
+"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"Arial/OT:script=latn;language=dflt;+smcp;mapping=tex
+-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"Arial/B/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;mapping=tex-tex
+t;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"Arial/I/OT:script=latn;language=dflt;+smcp;mapping=t
+ex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;mapping=tex-te
+xt;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"Arial/BI/OT:script=latn;language=dflt;+smcp;mapping=
+tex-text;"
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
+\Gm@bindingoffset=\dimen144
+\Gm@wd@mp=\dimen145
+\Gm@odd@mp=\dimen146
+\Gm@even@mp=\dimen147
+\Gm@layoutwidth=\dimen148
+\Gm@layoutheight=\dimen149
+\Gm@layouthoffset=\dimen150
+\Gm@layoutvoffset=\dimen151
+\Gm@dimlist=\toks17
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2023-02-07 v7.00v Hypertext links for LaTeX
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.
+sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.st
+y
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinek
+eys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.st
+y
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro.
+sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2022-05-17 v2.50 Cross-referencing by name of section
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitl
+estring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count273
+)
+\@linkdim=\dimen152
+\Hy@linkcounter=\count274
+\Hy@pagecounter=\count275
+ (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2023-02-07 v7.00v Hyperref: PDFDocEncoding definition (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count276
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2023-02-07 v7.00v Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4177.
+Package hyperref Info: Link nesting OFF on input line 4182.
+Package hyperref Info: Hyper index ON on input line 4185.
+Package hyperref Info: Plain pages OFF on input line 4192.
+Package hyperref Info: Backreferencing OFF on input line 4197.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4425.
+\c@Hy@tempcnt=\count277
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen153
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.
+sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count278
+\Field@Width=\dimen154
+\Fld@charsize=\dimen155
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count279
+\c@Item=\count280
+\c@Hfootnote=\count281
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2023-02-07 v7.00v Hyperref driver for XeTeX
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.st
+y
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box52
+\c@Hy@AnnotLevel=\count282
+\HyField@AnnotCount=\count283
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfile
+check.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniqueco
+unter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip50
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cf
+g
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.s
+ty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.sty
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+common.tex
+\pgfutil@everybye=\toks18
+\pgfutil@tempdima=\dimen158
+\pgfutil@tempdimb=\dimen159
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil-
+latex.def
+\pgfutil@abb=\box53
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.c
+ode.tex
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.s
+ty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.s
+ty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex
+\pgfkeys@pathtoks=\toks19
+\pgfkeys@temptoks=\toks20
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeysl
+ibraryfiltered.code.tex
+\pgfkeys@tmptoks=\toks21
+))
+\pgf@x=\dimen160
+\pgf@y=\dimen161
+\pgf@xa=\dimen162
+\pgf@ya=\dimen163
+\pgf@xb=\dimen164
+\pgf@yb=\dimen165
+\pgf@xc=\dimen166
+\pgf@yc=\dimen167
+\pgf@xd=\dimen168
+\pgf@yd=\dimen169
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count286
+\c@pgf@countb=\count287
+\c@pgf@countc=\count288
+\c@pgf@countd=\count289
+\t@pgf@toka=\toks22
+\t@pgf@tokb=\toks23
+\t@pgf@tokc=\toks24
+\pgf@sys@id@count=\count290
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cf
+g
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count291
+)))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+softpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count292
+\pgfsyssoftpath@bigbuffer@items=\count293
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsys
+protocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 227.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.c
+ode.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser
+.code.tex
+\pgfmath@dimen=\dimen170
+\pgfmath@count=\count294
+\pgfmath@box=\box54
+\pgfmath@toks=\toks25
+\pgfmath@stack@operand=\toks26
+\pgfmath@stack@operation=\toks27
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.basic.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.trigonometric.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.random.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.comparison.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.base.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.round.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.misc.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfuncti
+ons.integerarithmetics.code.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.c
+ode.tex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.
+code.tex
+\c@pgfmathroundto@lastzeros=\count295
+))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.t
+ex)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+points.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen171
+\pgf@picmaxx=\dimen172
+\pgf@picminy=\dimen173
+\pgf@picmaxy=\dimen174
+\pgf@pathminx=\dimen175
+\pgf@pathmaxx=\dimen176
+\pgf@pathminy=\dimen177
+\pgf@pathmaxy=\dimen178
+\pgf@xx=\dimen179
+\pgf@xy=\dimen180
+\pgf@yx=\dimen181
+\pgf@yy=\dimen182
+\pgf@zx=\dimen183
+\pgf@zy=\dimen184
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen185
+\pgf@path@lasty=\dimen186
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathusage.code.tex
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen187
+\pgf@shorten@start@additional=\dimen188
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+scopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box55
+\pgf@hbox=\box56
+\pgf@layerbox@main=\box57
+\pgf@picture@serial@count=\count296
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+graphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen189
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transformations.code.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen190
+\pgf@pt@y=\dimen191
+\pgf@pt@temp=\dimen192
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+quick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+objects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+pathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+arrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen193
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+shade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen194
+\pgf@sys@shading@range@num=\count297
+\pgf@shadingcount=\count298
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+image.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+external.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box58
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+layers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+transparency.code.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+patterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore
+rdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodules
+hapes.code.tex
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box59
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulep
+lot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-0-65.sty
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen195
+\pgf@nodesepend=\dimen196
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcom
+p-version-1-18.sty
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.st
+y
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.
+code.tex))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.
+tex))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.c
+ode.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen197
+\pgffor@skip=\dimen198
+\pgffor@stack=\toks28
+\pgffor@toks=\toks29
+))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+\tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibra
+ryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count299
+\pgfplotmarksize=\dimen199
+)
+\tikz@lastx=\dimen256
+\tikz@lasty=\dimen257
+\tikz@lastxsaved=\dimen258
+\tikz@lastysaved=\dimen259
+\tikz@lastmovetox=\dimen260
+\tikz@lastmovetoy=\dimen261
+\tikzleveldistance=\dimen262
+\tikzsiblingdistance=\dimen263
+\tikz@figbox=\box60
+\tikz@figbox@bg=\box61
+\tikz@tempbox=\box62
+\tikz@tempbox@bg=\box63
+\tikztreelevel=\count300
+\tikznumberofchildren=\count301
+\tikznumberofcurrentchild=\count302
+\tikz@fig@count=\count303
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulem
+atrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count304
+\pgfmatrixcurrentcolumn=\count305
+\pgf@matrix@numberofcolumns=\count306
+)
+\tikz@expandcount=\count307
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz
+/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/tabularray\tabularray.st
+y
+Package: tabularray 2023-03-01 v2023A Typeset tabulars and arrays with LaTeX3
+\l__tblr_a_int=\count308
+\l__tblr_c_int=\count309
+\l__tblr_r_int=\count310
+\l__tblr_d_dim=\dimen264
+\l__tblr_h_dim=\dimen265
+\l__tblr_o_dim=\dimen266
+\l__tblr_p_dim=\dimen267
+\l__tblr_q_dim=\dimen268
+\l__tblr_r_dim=\dimen269
+\l__tblr_s_dim=\dimen270
+\l__tblr_t_dim=\dimen271
+\l__tblr_v_dim=\dimen272
+\l__tblr_w_dim=\dimen273
+\l__tblr_a_box=\box64
+\l__tblr_b_box=\box65
+\l__tblr_c_box=\box66
+\l__tblr_d_box=\box67
+\g__tblr_table_count_int=\count311
+\c@rownum=\count312
+\c@colnum=\count313
+\c@rowcount=\count314
+\c@colcount=\count315
+\abovesep=\dimen274
+\belowsep=\dimen275
+\leftsep=\dimen276
+\rightsep=\dimen277
+\g_tblr_level_int=\count316
+\g__tblr_data_row_key_count_int=\count317
+\g__tblr_data_column_key_count_int=\count318
+\g__tblr_data_cell_key_count_int=\count319
+\g__tblr_array_int=\count320
+\l__tblr_key_count_int=\count321
+\l__tblr_key_quotient_int=\count322
+\l__tblr_key_quotient_two_int=\count323
+\l__tblr_key_remainder_int=\count324
+\g__tblr_data_str_value_count_int=\count325
+\rulewidth=\dimen278
+\l__tblr_strut_dp_dim=\dimen279
+\l__tblr_strut_ht_dim=\dimen280
+\g__tblr_cell_wd_dim=\dimen281
+\g__tblr_cell_ht_dim=\dimen282
+\g__tblr_cell_head_dim=\dimen283
+\g__tblr_cell_foot_dim=\dimen284
+\l__column_target_dim=\dimen285
+\l__tblr_caption_box=\box68
+\l__tblr_caption_left_box=\box69
+\l__tblr_row_head_box=\box70
+\l__tblr_row_foot_box=\box71
+\l__tblr_row_head_foot_dim=\dimen286
+\tablewidth=\dimen287
+\l__tblr_table_firsthead_box=\box72
+\l__tblr_table_middlehead_box=\box73
+\l__tblr_table_lasthead_box=\box74
+\l__tblr_table_firstfoot_box=\box75
+\l__tblr_table_middlefoot_box=\box76
+\l__tblr_table_lastfoot_box=\box77
+\l__tblr_remain_height_dim=\dimen288
+\l__tblr_long_from_int=\count326
+\l__tblr_long_to_int=\count327
+\l__tblr_curr_i_int=\count328
+\l__tblr_prev_i_int=\count329
+\l__tblr_table_page_int=\count330
+\l__tblr_table_head_box=\box78
+\l__tblr_table_foot_box=\box79
+\l__tblr_table_head_foot_dim=\dimen289
+\l__tblr_table_head_body_foot_dim=\dimen290
+\l__tblr_table_box=\box80
+\l__tblr_table_hlines_box=\box81
+\l__tblr_hline_box=\box82
+\l__tblr_row_box=\box83
+\l__tblr_col_o_wd_dim=\dimen291
+\l__tblr_col_b_wd_dim=\dimen292
+\l__tblr_hline_leftskip_dim=\dimen293
+\l__tblr_hline_rightskip_dim=\dimen294
+\l__tblr_row_ht_dim=\dimen295
+\l__tblr_row_dp_dim=\dimen296
+\l__tblr_row_abovesep_dim=\dimen297
+\l__tblr_row_belowsep_dim=\dimen298
+\l__tblr_row_vlines_box=\box84
+\l__tblr_vline_box=\box85
+\l__tblr_cell_box=\box86
+\l__row_upper_dim=\dimen299
+\l__row_lower_dim=\dimen300
+\l__row_vpace_dim=\dimen301
+\l__tblr_vline_aboveskip_dim=\dimen302
+\l__tblr_vline_belowskip_dim=\dimen303
+\l__tblr_cell_wd_dim=\dimen304
+\l__tblr_cell_ht_dim=\dimen305
+\l__tblr_diag_box=\box87
+) (C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
+\LTleft=\skip60
+\LTright=\skip61
+\LTpre=\skip62
+\LTpost=\skip63
+\LTchunksize=\count331
+\LTcapwidth=\dimen306
+\LT@head=\box88
+\LT@firsthead=\box89
+\LT@foot=\box90
+\LT@lastfoot=\box91
+\LT@gbox=\box92
+\LT@cols=\count332
+\LT@rows=\count333
+\c@LT@tables=\count334
+\c@LT@chunks=\count335
+\LT@p@ftn=\toks30
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen307
+\lightrulewidth=\dimen308
+\cmidrulewidth=\dimen309
+\belowrulesep=\dimen310
+\belowbottomsep=\dimen311
+\aboverulesep=\dimen312
+\abovetopsep=\dimen313
+\cmidrulesep=\dimen314
+\cmidrulekern=\dimen315
+\defaultaddspace=\dimen316
+\@cmidla=\count336
+\@cmidlb=\count337
+\@aboverulesep=\dimen317
+\@belowrulesep=\dimen318
+\@thisruleclass=\count338
+\@lastruleclass=\count339
+\@thisrulewidth=\dimen319
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip64
+\enit@outerparindent=\dimen320
+\enit@toks=\toks31
+\enit@inbox=\box93
+\enit@count@id=\count340
+\enitdp@description=\count341
+)
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/tocloft\tocloft.sty
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip65
+\cftbeforetoctitleskip=\skip66
+\cftaftertoctitleskip=\skip67
+\cftbeforepartskip=\skip68
+\cftpartnumwidth=\skip69
+\cftpartindent=\skip70
+\cftbeforesecskip=\skip71
+\cftsecindent=\skip72
+\cftsecnumwidth=\skip73
+\cftbeforesubsecskip=\skip74
+\cftsubsecindent=\skip75
+\cftsubsecnumwidth=\skip76
+\cftbeforesubsubsecskip=\skip77
+\cftsubsubsecindent=\skip78
+\cftsubsubsecnumwidth=\skip79
+\cftbeforeparaskip=\skip80
+\cftparaindent=\skip81
+\cftparanumwidth=\skip82
+\cftbeforesubparaskip=\skip83
+\cftsubparaindent=\skip84
+\cftsubparanumwidth=\skip85
+\cftbeforeloftitleskip=\skip86
+\cftafterloftitleskip=\skip87
+\cftbeforefigskip=\skip88
+\cftfigindent=\skip89
+\cftfignumwidth=\skip90
+\c@lofdepth=\count342
+\c@lotdepth=\count343
+\cftbeforelottitleskip=\skip91
+\cftafterlottitleskip=\skip92
+\cftbeforetabskip=\skip93
+\cfttabindent=\skip94
+\cfttabnumwidth=\skip95
+)
+(bylaws.aux)
+\openout1 = `bylaws.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 4
+4.
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 44.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 44.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 44.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 44.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 44.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 44.
+LaTeX Font Info:    Redeclaring math accent \check on input line 44.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 44.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 44.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 44.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 44.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/b/it on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 44.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 44.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring OFF on input line 44.
+(bylaws.out) (bylaws.out)
+\@outlinefile=\write4
+\openout4 = `bylaws.out'.
+
+
+(C:\Users\Mark\AppData\Local\Programs\MiKTeX\tex/latex/ninecolors\ninecolors.st
+y
+Package: ninecolors 2022-02-13 vv2022D Select colors with proper color contrast
+
+) (title_page.tex
+File: Logo_MES_Red.png Graphic file (type bmp)
+<Logo_MES_Red.png>
+ [1
+
+]) (preamble.tex
+File: Logo_Name_Red.png Graphic file (type bmp)
+<Logo_Name_Red.png>
+) [1] (bylaws.toc
+Underfull \hbox (badness 10000) detected at line 1
+\TU/Arial(0)/b/n/12 1)
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+
+Underfull \hbox (badness 10000) detected at line 2
+\TU/Arial(0)/m/n/12 1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 3
+\TU/Arial(0)/m/n/12 1.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 4
+\TU/Arial(0)/m/n/12 1.1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 5
+\TU/Arial(0)/m/n/12 1.1.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 6
+\TU/Arial(0)/m/n/12 1.1.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 7
+\TU/Arial(0)/m/n/12 1.1.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 8
+\TU/Arial(0)/m/n/12 1.1.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 9
+\TU/Arial(0)/m/n/12 1.1.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 10
+\TU/Arial(0)/m/n/12 1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 11
+\TU/Arial(0)/m/n/12 1.2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 12
+\TU/Arial(0)/m/n/12 1.2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 13
+\TU/Arial(0)/m/n/12 1.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 14
+\TU/Arial(0)/m/n/12 1.3.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 15
+\TU/Arial(0)/m/n/12 1.3.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 16
+\TU/Arial(0)/m/n/12 1.3.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 17
+\TU/Arial(0)/m/n/12 1.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 18
+\TU/Arial(0)/m/n/12 1.4.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 19
+\TU/Arial(0)/m/n/12 1.4.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 20
+\TU/Arial(0)/m/n/12 1.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 21
+\TU/Arial(0)/b/n/12 2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 22
+\TU/Arial(0)/m/n/12 2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 23
+\TU/Arial(0)/m/n/12 2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 24
+\TU/Arial(0)/m/n/12 2.2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 25
+\TU/Arial(0)/m/n/12 2.2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 26
+\TU/Arial(0)/m/n/12 2.2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 27
+\TU/Arial(0)/m/n/12 2.2.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 28
+\TU/Arial(0)/m/n/12 2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 29
+\TU/Arial(0)/m/n/12 2.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 30
+\TU/Arial(0)/m/n/12 2.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 31
+\TU/Arial(0)/m/n/12 2.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 32
+\TU/Arial(0)/m/n/12 2.6.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 33
+\TU/Arial(0)/m/n/12 2.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 34
+\TU/Arial(0)/m/n/12 2.8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 35
+\TU/Arial(0)/m/n/12 2.9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 36
+\TU/Arial(0)/m/n/12 2.9.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 37
+\TU/Arial(0)/m/n/12 2.9.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 38
+\TU/Arial(0)/m/n/12 2.9.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 39
+\TU/Arial(0)/m/n/12 2.9.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 40
+\TU/Arial(0)/m/n/12 2.9.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 41
+\TU/Arial(0)/m/n/12 2.9.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 42
+\TU/Arial(0)/m/n/12 2.10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 43
+\TU/Arial(0)/m/n/12 2.11)
+ []
+
+[2]
+Underfull \hbox (badness 10000) detected at line 44
+\TU/Arial(0)/b/n/12 3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 45
+\TU/Arial(0)/m/n/12 3.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 46
+\TU/Arial(0)/m/n/12 3.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 47
+\TU/Arial(0)/m/n/12 3.1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 48
+\TU/Arial(0)/m/n/12 3.1.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 49
+\TU/Arial(0)/m/n/12 3.1.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 50
+\TU/Arial(0)/m/n/12 3.1.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 51
+\TU/Arial(0)/m/n/12 3.1.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 52
+\TU/Arial(0)/m/n/12 3.1.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 53
+\TU/Arial(0)/m/n/12 3.1.8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 54
+\TU/Arial(0)/m/n/12 3.1.9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 55
+\TU/Arial(0)/m/n/12 3.1.10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 56
+\TU/Arial(0)/m/n/12 3.1.11)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 57
+\TU/Arial(0)/m/n/12 3.1.12)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 58
+\TU/Arial(0)/m/n/12 3.1.13)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 59
+\TU/Arial(0)/m/n/12 3.1.14)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 60
+\TU/Arial(0)/m/n/12 3.1.15)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 61
+\TU/Arial(0)/m/n/12 3.1.16)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 62
+\TU/Arial(0)/m/n/12 3.1.17)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 63
+\TU/Arial(0)/m/n/12 3.1.18)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 64
+\TU/Arial(0)/m/n/12 3.1.19)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 65
+\TU/Arial(0)/m/n/12 3.1.20)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 66
+\TU/Arial(0)/m/n/12 3.1.21)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 67
+\TU/Arial(0)/m/n/12 3.1.22)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 68
+\TU/Arial(0)/m/n/12 3.1.23)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 69
+\TU/Arial(0)/m/n/12 3.1.24)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 70
+\TU/Arial(0)/m/n/12 3.1.25)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 71
+\TU/Arial(0)/m/n/12 3.1.26)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 72
+\TU/Arial(0)/m/n/12 3.1.27)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 73
+\TU/Arial(0)/m/n/12 3.1.28)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 74
+\TU/Arial(0)/m/n/12 3.1.29)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 75
+\TU/Arial(0)/m/n/12 3.1.30)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 76
+\TU/Arial(0)/m/n/12 3.1.31)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 77
+\TU/Arial(0)/m/n/12 3.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 78
+\TU/Arial(0)/m/n/12 3.2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 79
+\TU/Arial(0)/m/n/12 3.2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 80
+\TU/Arial(0)/m/n/12 3.2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 81
+\TU/Arial(0)/m/n/12 3.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 82
+\TU/Arial(0)/m/n/12 3.3.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 83
+\TU/Arial(0)/m/n/12 3.3.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 84
+\TU/Arial(0)/m/n/12 3.3.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 85
+\TU/Arial(0)/m/n/12 3.3.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 86
+\TU/Arial(0)/m/n/12 3.3.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 87
+\TU/Arial(0)/b/n/12 4)
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[3]
+Underfull \hbox (badness 10000) detected at line 88
+\TU/Arial(0)/m/n/12 4.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 89
+\TU/Arial(0)/m/n/12 4.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 90
+\TU/Arial(0)/m/n/12 4.1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 91
+\TU/Arial(0)/m/n/12 4.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 92
+\TU/Arial(0)/m/n/12 4.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 93
+\TU/Arial(0)/m/n/12 4.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 94
+\TU/Arial(0)/m/n/12 4.4.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 95
+\TU/Arial(0)/m/n/12 4.4.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 96
+\TU/Arial(0)/m/n/12 4.4.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 97
+\TU/Arial(0)/m/n/12 4.4.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 98
+\TU/Arial(0)/m/n/12 4.4.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 99
+\TU/Arial(0)/m/n/12 4.4.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 100
+\TU/Arial(0)/m/n/12 4.4.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 101
+\TU/Arial(0)/m/n/12 4.4.8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 102
+\TU/Arial(0)/m/n/12 4.4.9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 103
+\TU/Arial(0)/m/n/12 4.4.10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 104
+\TU/Arial(0)/m/n/12 4.4.11)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 105
+\TU/Arial(0)/m/n/12 4.4.12)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 106
+\TU/Arial(0)/m/n/12 4.4.13)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 107
+\TU/Arial(0)/m/n/12 4.4.14)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 108
+\TU/Arial(0)/m/n/12 4.4.15)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 109
+\TU/Arial(0)/m/n/12 4.4.16)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 110
+\TU/Arial(0)/m/n/12 4.4.17)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 111
+\TU/Arial(0)/m/n/12 4.4.18)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 112
+\TU/Arial(0)/m/n/12 4.4.19)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 113
+\TU/Arial(0)/m/n/12 4.4.20)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 114
+\TU/Arial(0)/m/n/12 4.4.21)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 115
+\TU/Arial(0)/m/n/12 4.4.22)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 116
+\TU/Arial(0)/m/n/12 4.4.23)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 117
+\TU/Arial(0)/b/n/12 5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 118
+\TU/Arial(0)/m/n/12 5.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 119
+\TU/Arial(0)/m/n/12 5.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 120
+\TU/Arial(0)/m/n/12 5.2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 121
+\TU/Arial(0)/m/n/12 5.2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 122
+\TU/Arial(0)/m/n/12 5.2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 123
+\TU/Arial(0)/m/n/12 5.2.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 124
+\TU/Arial(0)/m/n/12 5.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 125
+\TU/Arial(0)/m/n/12 5.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 126
+\TU/Arial(0)/b/n/12 6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 127
+\TU/Arial(0)/m/n/12 6.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 128
+\TU/Arial(0)/m/n/12 6.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 129
+\TU/Arial(0)/m/n/12 6.2.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 130
+\TU/Arial(0)/m/n/12 6.2.2)
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[4]
+Underfull \hbox (badness 10000) detected at line 131
+\TU/Arial(0)/m/n/12 6.2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 132
+\TU/Arial(0)/m/n/12 6.2.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 133
+\TU/Arial(0)/m/n/12 6.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 134
+\TU/Arial(0)/b/n/12 7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 135
+\TU/Arial(0)/b/n/12 8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 136
+\TU/Arial(0)/m/n/12 8.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 137
+\TU/Arial(0)/m/n/12 8.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 138
+\TU/Arial(0)/m/n/12 8.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 139
+\TU/Arial(0)/m/n/12 8.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 140
+\TU/Arial(0)/m/n/12 8.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 141
+\TU/Arial(0)/m/n/12 8.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 142
+\TU/Arial(0)/m/n/12 8.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 143
+\TU/Arial(0)/b/n/12 9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 144
+\TU/Arial(0)/m/n/12 9.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 145
+\TU/Arial(0)/m/n/12 9.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 146
+\TU/Arial(0)/m/n/12 9.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 147
+\TU/Arial(0)/m/n/12 9.3.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 148
+\TU/Arial(0)/m/n/12 9.3.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 149
+\TU/Arial(0)/m/n/12 9.3.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 150
+\TU/Arial(0)/m/n/12 9.3.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 151
+\TU/Arial(0)/m/n/12 9.3.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 152
+\TU/Arial(0)/m/n/12 9.3.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 153
+\TU/Arial(0)/m/n/12 9.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 154
+\TU/Arial(0)/m/n/12 9.4.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 155
+\TU/Arial(0)/m/n/12 9.4.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 156
+\TU/Arial(0)/m/n/12 9.4.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 157
+\TU/Arial(0)/m/n/12 9.4.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 158
+\TU/Arial(0)/m/n/12 9.4.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 159
+\TU/Arial(0)/m/n/12 9.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 160
+\TU/Arial(0)/m/n/12 9.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 161
+\TU/Arial(0)/m/n/12 9.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 162
+\TU/Arial(0)/m/n/12 9.7.1)
+ []
+
+
+Overfull \hbox (7.37627pt too wide) in paragraph at lines 162--162
+ [][] [][]\TU/Arial(0)/m/n/12 The McMaster Laboratory Advancement Benefaction E
+ndowment Fund 
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 163
+\TU/Arial(0)/m/n/12 9.8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 164
+\TU/Arial(0)/m/n/12 9.9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 165
+\TU/Arial(0)/m/n/12 9.10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 166
+\TU/Arial(0)/b/n/12 10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 167
+\TU/Arial(0)/m/n/12 10.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 168
+\TU/Arial(0)/m/n/12 10.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 169
+\TU/Arial(0)/m/n/12 10.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 170
+\TU/Arial(0)/m/n/12 10.2.1)
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[5]
+Underfull \hbox (badness 10000) detected at line 171
+\TU/Arial(0)/m/n/12 10.2.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 172
+\TU/Arial(0)/m/n/12 10.2.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 173
+\TU/Arial(0)/m/n/12 10.2.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 174
+\TU/Arial(0)/m/n/12 10.2.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 175
+\TU/Arial(0)/m/n/12 10.2.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 176
+\TU/Arial(0)/m/n/12 10.2.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 177
+\TU/Arial(0)/b/n/12 11)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 178
+\TU/Arial(0)/m/n/12 11.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 179
+\TU/Arial(0)/m/n/12 11.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 180
+\TU/Arial(0)/m/n/12 11.1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 181
+\TU/Arial(0)/m/n/12 11.1.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 182
+\TU/Arial(0)/m/n/12 11.1.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 183
+\TU/Arial(0)/m/n/12 11.1.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 184
+\TU/Arial(0)/m/n/12 11.1.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 185
+\TU/Arial(0)/m/n/12 11.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 186
+\TU/Arial(0)/m/n/12 11.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 187
+\TU/Arial(0)/m/n/12 11.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 188
+\TU/Arial(0)/m/n/12 11.4.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 189
+\TU/Arial(0)/m/n/12 11.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 190
+\TU/Arial(0)/m/n/12 11.5.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 191
+\TU/Arial(0)/m/n/12 11.5.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 192
+\TU/Arial(0)/m/n/12 11.5.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 193
+\TU/Arial(0)/m/n/12 11.5.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 194
+\TU/Arial(0)/m/n/12 11.5.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 195
+\TU/Arial(0)/m/n/12 11.5.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 196
+\TU/Arial(0)/m/n/12 11.5.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 197
+\TU/Arial(0)/m/n/12 11.6)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 198
+\TU/Arial(0)/m/n/12 11.6.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 199
+\TU/Arial(0)/m/n/12 11.6.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 200
+\TU/Arial(0)/m/n/12 11.6.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 201
+\TU/Arial(0)/m/n/12 11.6.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 202
+\TU/Arial(0)/m/n/12 11.7)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 203
+\TU/Arial(0)/m/n/12 11.7.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 204
+\TU/Arial(0)/m/n/12 11.7.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 205
+\TU/Arial(0)/m/n/12 11.7.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 206
+\TU/Arial(0)/m/n/12 11.7.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 207
+\TU/Arial(0)/m/n/12 11.8)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 208
+\TU/Arial(0)/m/n/12 11.9)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 209
+\TU/Arial(0)/m/n/12 11.10)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 210
+\TU/Arial(0)/m/n/12 11.10.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 211
+\TU/Arial(0)/m/n/12 11.11)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 212
+\TU/Arial(0)/m/n/12 11.11.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 213
+\TU/Arial(0)/m/n/12 11.12)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 214
+\TU/Arial(0)/m/n/12 11.12.1)
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[6]
+Underfull \hbox (badness 10000) detected at line 215
+\TU/Arial(0)/m/n/12 11.12.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 216
+\TU/Arial(0)/m/n/12 11.13)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 217
+\TU/Arial(0)/m/n/12 11.13.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 218
+\TU/Arial(0)/m/n/12 11.13.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 219
+\TU/Arial(0)/m/n/12 11.13.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 220
+\TU/Arial(0)/m/n/12 11.13.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 221
+\TU/Arial(0)/m/n/12 11.13.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 222
+\TU/Arial(0)/b/n/12 12)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 223
+\TU/Arial(0)/m/n/12 12.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 224
+\TU/Arial(0)/m/n/12 12.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 225
+\TU/Arial(0)/b/n/12 13)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 226
+\TU/Arial(0)/m/n/12 13.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 227
+\TU/Arial(0)/m/n/12 13.1.1)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 228
+\TU/Arial(0)/m/n/12 13.1.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 229
+\TU/Arial(0)/m/n/12 13.1.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 230
+\TU/Arial(0)/m/n/12 13.1.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 231
+\TU/Arial(0)/m/n/12 13.2)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 232
+\TU/Arial(0)/m/n/12 13.3)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 233
+\TU/Arial(0)/m/n/12 13.4)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 234
+\TU/Arial(0)/m/n/12 13.5)
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 235
+\TU/Arial(0)/m/n/12 13.5.1)
+ []
+
+)
+\tf@toc=\write5
+\openout5 = `bylaws.toc'.
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[7] (Sections/1 - Structure and Organization.tex
+(Sections/Exec Portfolios/president.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[8]) (Sections/Exec Portfolios/vice-president-student-life.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[9]) (Sections/Exec Portfolios/vice-president-external-relations.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[10]
+Overfull \hbox (4.0833pt too wide) in paragraph at lines 38--42
+[]\TU/Arial(0)/m/n/12 Provide the Administrator and Handbook Editor(s) with a c
+alendar of all external events,
+ []
+
+) (Sections/Exec Portfolios/vice-president-academic.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[11]) (Sections/Exec Portfolios/vice-president-finance.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[12]) (Sections/Exec Portfolios/vice-president-internal.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[13]) (Sections/Exec Portfolios/vice-president-communications.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[14]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[15])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[16]
+Overfull \hbox (0.75774pt too wide) in paragraph at lines 155--158
+[]\TU/Arial(0)/m/n/12 Promote MES flagship by encouraging the use of MES brandi
+ng amongst MES groups. 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[17]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[18]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[19]) (Sections/2 - Elections and Selections.tex
+Overfull \hbox (6.4113pt too wide) in paragraph at lines 9--12
+[]\TU/Arial(0)/m/n/12 There shall be two classes of internal MES elections: reg
+ular elections and by-elections. 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[20]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[21]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[22]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[23]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[24]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[25]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[26]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[28]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[29]) (Sections/3 - Appointed Positions.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[30]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[31]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[32]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[33]
+Overfull \hbox (4.77278pt too wide) in paragraph at lines 355--359
+\TU/Arial(0)/m/n/12 MES electronic communication platforms. Including MES Micro
+soft Teams, and Google
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[34]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[35]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[36]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[37]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[38]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[39]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[40]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[41]
+Overfull \hbox (2.7708pt too wide) in paragraph at lines 887--890
+[]\TU/Arial(0)/m/n/12 Organize the annual Ratboy Memorial Soccer Tournament and
+ initiate/coordinate other
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[42]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[43]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[44]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[45]
+Overfull \hbox (18.9915pt too wide) in paragraph at lines 1149--1152
+[]\TU/Arial(0)/m/n/12 Reach out to grassroots businesses regarding sponsorship 
+opportunities for the MEScard. 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[46]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[47]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[48]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[49]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[50]) (Sections/4 - Committees.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[51]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[52]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[53]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[54]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[55]
+Overfull \hbox (0.34697pt too wide) in paragraph at lines 368--372
+\TU/Arial(0)/m/n/12 showing good faith to the University by helping to clean up
+ unapproved Kipling “pranks”
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[56]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[57]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[58]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[59]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[60]) (Sections/5 - Meetings.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[61]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[62]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[63]) (Sections/6 - MES Roberts Rules of Order.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[64]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[65]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[66]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+> Step: build the whole table.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[67]
+> Step: init table outer spec.
+> Step: parse table options.
+> Step: split table.
+> Step: init table inner spec.
+> Step: parse table inner spec.
+> Step: execute table commands.
+> Step: calculate cell and line sizes.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/b/n/12 Votes Re-
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Change Word-
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 “I move to amend the mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Postpone Mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Limit Debate
+ []
+
+> Step: build the whole table.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/b/n/12 Votes Re-
+ []
+
+
+Underfull \hbox (badness 4967) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Change Word-
+ []
+
+
+Underfull \hbox (badness 4899) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 “I move to amend the mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Postpone Mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--229
+[]\TU/Arial(0)/m/n/12 Limit Debate
+ []
+
+
+Overfull \hbox (17.99998pt too wide) in paragraph at lines 229--230
+[][] 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[68]) (Sections/7 - Board of Advisors Terms of Reference.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[69]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[70]) (Sections/8 - Clubs, Groups, Teams and Affiliates.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[71]
+Overfull \hbox (2.65671pt too wide) in paragraph at lines 89--92
+[]\TU/Arial(0)/m/n/12 Institute of Electrical and Electronics Engineers, McMast
+er Student Branch (IEEE) 
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[72]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[73]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[74]) (Sections/9 - Financial Policies.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[75]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[76]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[77]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[78]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[79]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[80]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[81]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[82]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[83]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[84]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[85]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[86]) (Sections/10 - Inter-Intra University Liaison.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[87]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[88]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[89]) (Sections/11 - Services.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[90]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[91]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[92]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[93]
+Overfull \hbox (1.47029pt too wide) in paragraph at lines 289--293
+\TU/Arial(0)/m/n/12 dinator(s), and Information Technology Coordinator(s). Furt
+her access may be granted
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[94]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[95]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[96]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[97]
+Overfull \hbox (4.31377pt too wide) in paragraph at lines 553--556
+[]\TU/Arial(0)/m/n/12 Large merchandise is characterized by requiring a signifi
+cant amount of storage/display
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[98]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[99]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[100]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[101]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[102]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[103]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[104]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[105]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[106]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[107]) (Sections/12 - Awards.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[108]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[109]) (Sections/13 - Special Events.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[110]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[111]
+Overfull \hbox (8.51894pt too wide) in paragraph at lines 173--177
+[]\TU/Arial(0)/m/n/12 MES Council Appreciation Awards, “Image of an Engineer” A
+wards, President’s Awards,
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.33636pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.33636pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.33636pt}.
+
+[112])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.34222pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.34222pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.34222pt}.
+
+[113] (bylaws.aux)
+Package rerunfilecheck Info: File `bylaws.out' has not changed.
+(rerunfilecheck)             Checksum: 7107C32E142EEEE1ABB2AB549F030605;41360.
+ ) 
+Here is how much of TeX's memory you used:
+ 25106 strings out of 411472
+ 531243 string characters out of 5818467
+ 1870012 words of memory out of 5000000
+ 44943 multiletter control sequences out of 15000+600000
+ 517897 words of font info for 73 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 84i,13n,103p,527b,710s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on bylaws.pdf (114 pages).
