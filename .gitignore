@@ -1,6 +1,2 @@
-*.bak*
-*.log
-*.aux
-*.out
+build_files/
 *.gz
-*.toc

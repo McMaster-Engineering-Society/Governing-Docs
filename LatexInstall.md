@@ -17,8 +17,12 @@ sudo perl ./install-tl --no-interaction
 
 ## Environment Setup
 1. Install the following VS Code Extensions
-- LaTeX Utilities
-- Latex Workshop
+- `LaTeX Utilities`
+- `Latex Workshop`
+2. Copy the contents of `settings.json` to `~/.vscode-server/settings.json`
+3. Install the Arial font that is used
+- `sudo apt install ttf-mscorefonts-installer` and agree to the terms
+4. Install some modules to be able to run the formatter
+- `sudo apt-get install libyaml-tiny-perl libfile-homedir-perl`
 
 ##
-1. 
