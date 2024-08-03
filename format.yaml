@@ -3,7 +3,7 @@ indentRules:
   item: ' '
 modifyLineBreaks:
   textWrapOptions:
-    columns: 73
+    columns: -1
     when: after
     blocksFollow:
       other: \\item
