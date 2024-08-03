@@ -24,5 +24,3 @@ sudo perl ./install-tl --no-interaction
 - `sudo apt install ttf-mscorefonts-installer` and agree to the terms
 4. Install some modules to be able to run the formatter
 - `sudo apt-get install libyaml-tiny-perl libfile-homedir-perl`
-
-##
