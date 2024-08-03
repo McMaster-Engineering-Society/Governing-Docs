@@ -1,3 +1,4 @@
+# Latex Environment Setup
 ## Install Latex on WSL
 1. Do not install with `sudo apt install texlive` or anything of that sort. This will give older versions of tex that may give issues with other custom downloaded packages.
 2. From [tug instructions](https://www.tug.org/texlive/quickinstall.html), use the following steps:
@@ -24,3 +25,13 @@ sudo perl ./install-tl --no-interaction
 - `sudo apt install ttf-mscorefonts-installer` and agree to the terms
 4. Install some modules to be able to run the formatter
 - `sudo apt-get install libyaml-tiny-perl libfile-homedir-perl`
+
+# Converting into LaTeX
+## Necessary Regex when converting Word to LaTeX
+`^.*\\def\\labelenumi.+\n`
+
+`^.*\\end\{quote\}.*\n`
+
+`^.*\\begin\{quote\}.*\n`
+
+`\}\\label\{` to `}\n\label{`
