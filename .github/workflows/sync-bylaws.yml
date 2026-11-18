@@ -6,8 +6,6 @@ name: Sync bylaws from Google Docs
 
 on:
   workflow_dispatch:          # the "Run workflow" button in the Actions tab
-  schedule:
-    - cron: "0 13 * * 1"      # optional: every Monday ~8-9am Eastern. Delete to disable.
 
 permissions:
   contents: write
