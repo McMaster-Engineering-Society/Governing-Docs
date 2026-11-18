@@ -77,7 +77,7 @@ jobs:
         if: steps.diff.outputs.changed == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
-          branch: docs-sync              # re-runs update this same PR instead of piling up new ones
+          branch: Bylaw_Doc_Experiment              # re-runs update this same PR instead of piling up new ones
           delete-branch: true
           add-paths: Sections            # only ever commit generated LaTeX, never build files
           commit-message: "Sync bylaws from Google Docs"
