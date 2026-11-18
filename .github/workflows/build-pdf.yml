@@ -1,0 +1,35 @@
+name: Build bylaws PDF
+
+# Builds the PDF whenever bylaws change on main (e.g. right after you merge a
+# sync PR), and checks any pull request you open by hand.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            latexmk fonts-liberation \
+            texlive-xetex texlive-latex-extra texlive-pictures \
+            texlive-fonts-recommended texlive-plain-generic
+
+      - name: Build PDF
+        run: |
+          mkdir -p build_files
+          latexmk -xelatex -interaction=nonstopmode -halt-on-error \
+            -file-line-error -outdir=build_files bylaws.tex
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bylaws-pdf
+          path: build_files/bylaws.pdf

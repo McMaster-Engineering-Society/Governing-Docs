@@ -1,0 +1,103 @@
+name: Sync bylaws from Google Docs
+
+# Pulls the Google Docs listed in sync/docs.toml, converts them to LaTeX, and
+# opens (or updates) a pull request. Nothing reaches `main` until someone
+# reviews and merges that PR.
+
+on:
+  workflow_dispatch:          # the "Run workflow" button in the Actions tab
+  schedule:
+    - cron: "0 13 * * 1"      # optional: every Monday ~8-9am Eastern. Delete to disable.
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install pandoc and XeLaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            pandoc latexmk fonts-liberation \
+            texlive-xetex texlive-latex-extra texlive-pictures \
+            texlive-fonts-recommended texlive-plain-generic
+
+      - name: Pull Google Docs and convert to LaTeX
+        run: python3 sync/bylaws_sync.py pull
+
+      - name: Did anything change?
+        id: diff
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+            echo "Docs already match the repo. Nothing to do."
+          fi
+
+      - name: Build PDF preview
+        id: build
+        if: steps.diff.outputs.changed == 'true'
+        continue-on-error: true   # a broken build is reported in the PR, not hidden
+        run: |
+          mkdir -p build_files
+          latexmk -xelatex -interaction=nonstopmode -halt-on-error \
+            -file-line-error -outdir=build_files bylaws.tex
+
+      - name: Look for broken cross-references
+        id: refs
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          missing=""
+          if [ -f build_files/bylaws.log ]; then
+            missing=$(grep -oE "Reference .[^']+' on page [0-9]+ undefined" build_files/bylaws.log | sort -u || true)
+          fi
+          {
+            echo "report<<EOF_REFS"
+            echo "${missing:-none}"
+            echo "EOF_REFS"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Upload PDF preview
+        id: upload
+        if: steps.diff.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: bylaws-preview
+          path: build_files/bylaws.pdf
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Open or update the pull request
+        if: steps.diff.outputs.changed == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: docs-sync              # re-runs update this same PR instead of piling up new ones
+          delete-branch: true
+          add-paths: Sections            # only ever commit generated LaTeX, never build files
+          commit-message: "Sync bylaws from Google Docs"
+          title: "Bylaw updates from Google Docs"
+          # reviewers: your-github-username,another-username
+          body: |
+            Automated sync of the bylaws Google Docs into LaTeX.
+
+            **Before approving**
+            - [ ] **Files changed** shows only the amendments you expect
+            - [ ] The [PDF preview](${{ steps.upload.outputs.artifact-url }}) looks right
+              (preview is built with Liberation Sans, a stand-in for Arial)
+
+            **Automatic checks**
+            - LaTeX build: `${{ steps.build.outcome }}`
+            - Broken cross-references:
+            ```
+            ${{ steps.refs.outputs.report }}
+            ```
+
+            Pending *suggestions* in the Google Docs are ignored. Only accepted text is included.
+
+            [Workflow run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})
