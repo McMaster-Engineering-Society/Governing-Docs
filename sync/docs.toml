@@ -1,0 +1,99 @@
+# Which Google Doc feeds which .tex file.
+#
+# - `file` is the path to the generated .tex file, relative to the repo root.
+# - `id` is the long string in the doc's URL:
+#       https://docs.google.com/document/d/<THIS PART>/edit
+#   The doc must be shared as "Anyone with the link can view".
+# - Entries whose id is still "TODO" are skipped, so you can switch sections
+#   over one at a time.
+#
+# Only the files listed here are ever overwritten. Anything else (bylaws.tex,
+# preamble.tex, title_page.tex, and any section file that just \input's other
+# files) is left alone.
+
+[[doc]]
+file = "Sections/1 - Structure and Organization.tex"
+id = "1K4qWlx8UfHuxtfotNZU4RIbnYIIpG-uk"
+
+[[doc]]
+file = "Sections/2 - Elections and Selections.tex"
+id = "1vOxwGdHRxuG1_7zSDrKQfd0yX70bPX9p"
+
+# Sections 3 and 4 appear to pull in files from subfolders. Add one [[doc]]
+# entry per subfolder file instead of one for the parent file, e.g.
+#   file = "Sections/Exec Portfolios/President.tex"
+[[doc]]
+file = "Sections/3 - Appointed Positions.tex"
+id = "1BorvVrzPo5jkPqXQe90gL-oelMBHblsW"
+
+[[doc]]
+file = "Sections/4 - Committees.tex"
+id = "1ZX6EePgzKebl_i3W5o5DMbfCuZvQz8ml"
+
+[[doc]]
+file = "Sections/5 - Meetings.tex"
+id = "1tNRK3OM6jodQScPVlXvlpRXQOq9Ysb1W"
+
+[[doc]]
+file = "Sections/6 - MES Roberts Rules of Order.tex"
+id = "1asD50lXq15X5Q2xOuICZOyElwsKOS63Z"
+
+[[doc]]
+file = "Sections/7 - Board of Advisors Terms of Reference.tex"
+id = "1OkSnzq-6j0vPTu84cn8sB9RRDUBIjHXp"
+
+[[doc]]
+file = "Sections/8 - Clubs, Groups, Teams and Affiliates.tex"
+id = "1yv4z8EoLcptsIn7Uy-h0Gf5-XEF2ODNM"
+
+[[doc]]
+file = "Sections/9 - Financial Policies.tex"
+id = "1U-pHC5jM-YvLTlGqU8MvjEeBPgL1AbJv"
+
+[[doc]]
+file = "Sections/10 - Inter-Intra University Liaison.tex"
+id = "1yBQ7JlDiq3-JQEMTkSdtTyU2VG-xIJ3v"
+
+[[doc]]
+file = "Sections/11 - Services.tex"
+id = "1P8EEtLaoIdCbPsILZj-NQxRvv0qYeGR0"
+
+[[doc]]
+file = "Sections/12 - Awards.tex"
+id = "1pmB4MFdkcNlmsqYMn4XXhZSBSrG9T_WX"
+
+[[doc]]
+file = "Sections/13 - Special Events.tex"
+id = "1CYB8WNyM_saPctQuYVtfCnsg0c9JjxHl"
+
+[[doc]]
+file = "Sections/14 - Traditions, Relics, and Culture.tex"
+id = "1ha7DFI6S0BHb6oj-d_KOkhuPHSbiqzVR"
+
+[[doc]]
+file = "Sections/Exec Portfolios/president.tex"
+id = "1jtbFacRMqg4PnR5fOaCyNgwCKKeKzDEY" 
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-academic.tex" 
+id = "1aLPWvzgldMeTYwA-iWYAr3RqioZd5c1t" 
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-communications.tex" 
+id = "1sW7fJ2r-yT8cny07vB-jeE9Iqk0szvue" 
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-external-relations.tex" 
+id = "1aUIxMDhvKDRs1k3u-t46vBFvWr74SFjd" 
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-finance.tex" 
+id = "1Qb0zPAQb_-IGbJ4GIjnQ0q9wSWAf1cGE"
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-internal.tex" 
+id = "1Yq2RkeDwzjjAhH1NP-ng8qDUIOEZZJGy" 
+
+[[doc]]
+file = "Sections/Exec Portfolios/vice-president-student-life.tex" 
+id = "1YBptQm985IFXKqSn76q01B7pNq0t0JtN" 

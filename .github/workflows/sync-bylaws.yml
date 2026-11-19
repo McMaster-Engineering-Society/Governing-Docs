@@ -47,6 +47,9 @@ jobs:
           latexmk -xelatex -interaction=nonstopmode -halt-on-error \
             -file-line-error -outdir=build_files bylaws.tex
 
+      - name: Replace repository PDF 
+        if: steps.build.outcome == 'success' 
+        run: cp build_files/bylaws.pdf bylaws.pdf 
       - name: Look for broken cross-references
         id: refs
         if: steps.diff.outputs.changed == 'true'
@@ -78,7 +81,10 @@ jobs:
           base: Bylaw_Doc_Experiment
           branch: docs-sync              # re-runs update this same PR instead of piling up new ones
           delete-branch: true
-          add-paths: Sections            # only ever commit generated LaTeX, never build files
+          add-paths: |
+            Sections 
+            bylaws.pdf                        
+          # only ever commit generated LaTeX, never build files
           commit-message: "Sync bylaws from Google Docs"
           title: "Bylaw updates from Google Docs"
           # reviewers: your-github-username,another-username

@@ -1,7 +1,7 @@
 \documentclass[12pt]{article}
 
 \usepackage{fontspec}
-\setmainfont{Arial}
+\IfFontExistsTF{Arial}{\setmainfont{Arial}}{\setmainfont{Liberation Sans}}
 
 \usepackage[letterpaper, portrait, margin=1in]{geometry}
 \usepackage{hyperref}
@@ -14,6 +14,9 @@
 \usepackage{booktabs}
 \usepackage{nameref}
 \usepackage{color}
+\usepackage{array}
+\usepackage{calc}
+\usepackage[normalem]{ulem} 
 
 \usepackage{enumitem}
 
