@@ -83,7 +83,8 @@ jobs:
           delete-branch: true
           add-paths: |
             Sections 
-            bylaws.pdf            # only ever commit generated LaTeX, never build files
+            bylaws.pdf                        
+          # only ever commit generated LaTeX, never build files
           commit-message: "Sync bylaws from Google Docs"
           title: "Bylaw updates from Google Docs"
           # reviewers: your-github-username,another-username
