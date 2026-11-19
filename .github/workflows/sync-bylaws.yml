@@ -81,9 +81,9 @@ jobs:
           base: Bylaw_Doc_Experiment
           branch: docs-sync              # re-runs update this same PR instead of piling up new ones
           delete-branch: true
-          add-paths: | 
-          Sections
-          bylaws.pdf            # only ever commit generated LaTeX, never build files
+          add-paths: |
+            Sections 
+            bylaws.pdf            # only ever commit generated LaTeX, never build files
           commit-message: "Sync bylaws from Google Docs"
           title: "Bylaw updates from Google Docs"
           # reviewers: your-github-username,another-username
